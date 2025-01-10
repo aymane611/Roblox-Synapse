@@ -1,0 +1,12 @@
+{
+	"name": "Catwork",
+	"globIgnorePaths": ["**/*.spec.lua"],
+
+	"tree": {
+		"$path": "src",
+
+		"LICENSE": {
+			"$path": "LICENSE.txt"
+		}
+	}
+}

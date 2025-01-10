@@ -1,0 +1,15 @@
+{
+	"languageMode": "nonstrict",
+	"lint": {
+		"LocalShadow": false,
+		"SameLineStatement": false,
+		"LocalUnused": false,
+		"FunctionUnused": false,
+		"ImportUnused": false,
+		"BuiltinGlobalWrite": false
+	},
+
+	"aliases": {
+		"catwork": "./src"
+	}
+}
